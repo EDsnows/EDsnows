@@ -7,7 +7,7 @@
 </div>
 
  <div>
-   <p>Sou dev iniciante de frontend em busca de experiência para entrar no mercado de trabalho como futuro programador de fullstack.</p>
+   <p>Sou dev iniciante de frontend em busca de experiência para entrar no mercado de trabalho como futuro programador fullstack.</p>
    <p><strong>Estou aberto para feedbacks dos projetos criados.</strong></p>
  </div>
  
