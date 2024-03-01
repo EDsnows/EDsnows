@@ -4,7 +4,7 @@
 <div>
     <a href="https://github.com/EDsnows">
         <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=EDsnows&show_icons=true&theme=radical"/>
-        <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDsnows&show_icons=true&theme=radical&layout=compact&card_width=320"/>
+        <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EDsnows&show_icons=true&theme=radical&layout=compact"/>
     </a>
 </div><br>
 Estou sempre aberto para feedbacks dos projetos criados.
