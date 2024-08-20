@@ -1,5 +1,5 @@
 ## Olá! Seja bem-vindo(a) ao meu perfil!
-### Desenvolvedor Web Frontend à cerca de 4 meses
+### Desenvolvedor Web Frontend à quase 1 ano.
 ***Estudar***, ***tentar***, ***errar*** e ***aprender***. Isso é o que aprendi em tão pouco tempo nessa jornada e que deve servir de lição para quem esta começando.
 <div>
     <a href="https://github.com/EDsnows">
